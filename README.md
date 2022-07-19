@@ -15,7 +15,7 @@
 
 ４、下記の通りに、各項目を入力して、次へ
 
-URI　：　https://github.com/IotaTech-Info/IotaJava_G2.git
+URI　：　https://github.com/IotaTech-Info/IotaJava_G3.git
 
 ユーザー　：　自分のGITHUBのユーザーID
 
